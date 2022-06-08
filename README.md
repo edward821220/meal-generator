@@ -12,6 +12,9 @@ Generate a random meal from an API.
 
 - [v] The app should display a **YouTube Video**
 
-## Useful links and resources
+## Resources
 
 - [TheMealDB API](https://www.themealdb.com)
+
+## Project link
+- [CodePen](https://codepen.io/edward821220/full/KKQxLeW)
