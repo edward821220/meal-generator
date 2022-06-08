@@ -11,7 +11,6 @@ body {
           box-sizing: border-box;
   font-family: "Noto Sans TC", sans-serif;
   background-color: bisque;
-  font-size: 150%;
 }
 
 h1 {
@@ -54,10 +53,6 @@ h3 {
           flex-direction: column;
 }
 
-.meal img {
-  width: 800px;
-}
-
 .ingredients {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -72,6 +67,7 @@ h3 {
 }
 
 .instructions {
+  text-align: center;
   line-height: 2;
 }
 

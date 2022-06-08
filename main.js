@@ -70,7 +70,7 @@ meal_btn.addEventListener("click", () => {
     results.meal_img = datas.strMealThumb;
     results.catgory = datas.strCategory;
     results.area = datas.strArea;
-    results.instructions = datas.strInstructions;
+    results.instructions = datas.strInstructions.replaceAll(".", ".<br>");
     results.youtube_link = datas.strYoutube;
     results.ingredients = [];
     console.log(results);

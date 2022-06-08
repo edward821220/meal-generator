@@ -10,7 +10,6 @@ body {
   box-sizing: border-box;
   font-family: "Noto Sans TC", sans-serif;
   background-color: bisque;
-  font-size: 150%;
 }
 
 h1 {
@@ -36,9 +35,6 @@ h3 {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  img {
-    width: 800px;
-  }
 }
 
 .ingredients {
@@ -47,6 +43,7 @@ h3 {
   align-items: center;
 }
 .instructions {
+  text-align: center;
   line-height: 2;
 }
 
