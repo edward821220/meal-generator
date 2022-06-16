@@ -3,6 +3,13 @@
 有鑑於此，為了更熟悉這部分的技術，在 [100+ Project Idea Resources for Web Developers](https://dev.to/asheeshh/100-project-ideas-web-developers-2fn8?ref=jonas.io) 網站上，   
 找了一個 meal-generator 的 project 來練習，也多學到了將Youtube影片嵌入網頁的方法。
 
+用到的技術包含：
+1.HTML+CSS 簡易排版
+2.CSS 預處理器 SCSS
+3.使用 JavaScript 串接 TheMealDB API 抓取食譜的照片、食材需求、步驟、示範影片連結
+4.設定click的event，每按一下就會載入其他菜色
+5.將示範影片連結以 iframe 的方式嵌入，直接將影片顯示在網頁上
+
 
 
 ## Project link
